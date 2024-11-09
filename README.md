@@ -6,6 +6,5 @@ The **One-Day Tour Planner** is a web application that provides personalized, in
 
  **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/one-day-tour-planner.git
-   cd one-day-tour-planner
+   git clone https://github.com/Anshpreet123/attention.ai.git
 
